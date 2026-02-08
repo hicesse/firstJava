@@ -1,0 +1,35 @@
+    /*
+     * ========
+     * Player punya:
+     * attribut
+     *  nama
+     *  level
+     *  xp
+     *  
+     * power
+     *  atk
+     *  def
+     *  hp
+     * ========
+     * player mau:
+     *  info
+     *  interaksi:
+     *      ambil
+     *      buang
+     * 
+     *  persiapan:
+     *      attribut:
+     *          copot
+     *          pakai
+     * 
+     *  
+     *  lakukan:
+     *      serang
+     *      tahan
+     *      regen 
+     * =========
+     * Player bisa:
+     *  tewas
+     *  level upp
+     * ========
+     */
